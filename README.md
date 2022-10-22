@@ -1,4 +1,4 @@
-# Bank-Churn-Prediction
+# Bank Churn Customers Prediction
 Middle Bootcamp Project
 
 Index:
