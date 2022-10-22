@@ -9,5 +9,4 @@ Index:
 
 
 The database is structured as follows:
-
-![image](https://user-images.githubusercontent.com/99433862/197340411-98f42bd8-f4ac-4fc7-8e28-35f35ca2d138.png)
+![image](https://user-images.githubusercontent.com/99433862/197340460-4b6bd0d6-4747-4f23-80a0-8f6b728f3796.png)
