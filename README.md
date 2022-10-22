@@ -10,4 +10,4 @@ Index:
 
 The database is structured as follows:
 
-![image](https://user-images.githubusercontent.com/99433862/197340366-611c5a33-725d-48e5-a784-51ae86ed6e26.png)
+![image](https://user-images.githubusercontent.com/99433862/197340411-98f42bd8-f4ac-4fc7-8e28-35f35ca2d138.png)
