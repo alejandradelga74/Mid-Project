@@ -1,4 +1,4 @@
-# Mid-Project
+# Bank-Churn-Prediction
 Middle Bootcamp Project
 
 Index:
